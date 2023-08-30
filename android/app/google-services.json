@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1074517815242",
+    "project_id": "chat-62998",
+    "storage_bucket": "chat-62998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074517815242:android:c68c55c9263119ddbaa933",
+        "android_client_info": {
+          "package_name": "com.example.healers_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074517815242-cfh86t8gqpqsao9hc0nhasccjam1buuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs8WRQjA3y4qOen10_R7msXVX8uNfZPSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074517815242-cfh86t8gqpqsao9hc0nhasccjam1buuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
